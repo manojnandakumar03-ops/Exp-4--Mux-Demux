@@ -16,7 +16,7 @@ Boolean Functions
 
 ## Design / RTL Program
 
-```
+
 ## **Testbench Program
 
 
@@ -85,6 +85,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
+<img width="1842" height="997" alt="Screenshot 2026-11-19 104628" src="https://github.com/user-attachments/assets/7568f191-3574-4556-ae1e-c5ba77fc098f" />
 
 ## Viva-Voce Questions
 
